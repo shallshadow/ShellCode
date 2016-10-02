@@ -1,4 +1,6 @@
 #!/bin/bash
+#about '*' and '@' usage
+
 echo "\$*=" $*
 echo "\"\$*\"=" "$*"
 

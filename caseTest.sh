@@ -1,5 +1,19 @@
 #!/bin/bash
 
+# case modle is :
+# case value in
+#   model1)
+#       command
+#   ;;
+#   model2)
+#       command
+#       ;;
+#   ...
+#   *)
+#   command
+#   ;;
+# easc
+
 echo 'input a number between 1 to 4 : '
 echo -e 'Your number is :\c'
 read aNum

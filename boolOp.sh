@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# about boolean operation usage
+
 #! inverse operation
 #-o OR operation
 #-a AND operation

@@ -1,6 +1,7 @@
 #!/bin/bash
 #2016年 10月 01日 星期六 06:20:28 PDT
 
+#you can use 'break' to interrupt a loop
 while :
 do
         echo -n "input a number between 1 to 5 : "
