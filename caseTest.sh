@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/basht
 
 # case modle is :
 # case value in

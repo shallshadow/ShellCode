@@ -1,6 +1,8 @@
 #!/bin/bash
-#about '*' and '@' usage
+#about '$*' and '$@' usage
 
+# $* all params passed to the script
+# $@ the same to $*,but not "$*"
 echo "\$*=" $*
 echo "\"\$*\"=" "$*"
 

@@ -9,4 +9,6 @@
 
 who > users
 
-echo "Mr.zhao is a good man" >> users
+echo "Mr.zhao is a good man" >> users >& users2
+
+

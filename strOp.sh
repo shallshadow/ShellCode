@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#= if the two string is equal,return true.
-#!= if the two string is not equal,return true.
-#-z if the string's length is zero return true.
-#-n if the string's length is not zero return true.
-#str if the string is not empty return true.
+# = if the two string is equal,return true.
+# != if the two string is not equal,return true.
+# -z if the string's length is zero return true.
+# -n if the string's length is not zero return true.
+# str if the string is not empty return true.
 a="abch"
 b="efgh"
 if [ $a = $b ]

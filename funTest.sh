@@ -9,6 +9,7 @@ echo "The begin of fun"
 demoFun
 echo "The end of fun"
 
+# return the param is limit in 0~255
 funWithReturn(){
         echo "This function will add the two input number..."
         echo "The first num is : \c"

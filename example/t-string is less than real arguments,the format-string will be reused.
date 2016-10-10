@@ -1,0 +1,10 @@
+h*                    | 19 printf "%s %s %s\n" a b c d e f g h i j
+  io.sh*                       | 20 
+    output.sh*                   | 21 #The string default value is null,the num default value is 0
+      printfTest.sh*               | 22 printf "%s and %d \n"
+        relaOp.sh*                   | 23 
+          second.sh*                   | 24 #There will have a warning if you take a string into '%d' argument,and the
+          value will be 0
+            shellfile1.sh                | 25 printf "The first program always prints '%s,%d\n'" Hello Shell
+
+                             

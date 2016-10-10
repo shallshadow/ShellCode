@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#for file in 'ls' do
-	#	echo ${file}
+# for file in 'ls' do
+# echo ${file}
 
 #done
 echo "What is your name"

@@ -1,10 +1,10 @@
 #!/bin/bash
-#-eq if the two number is equal,return true.
-#-ne if the two number is not equal, return true.
-#-gt if the left num greater than the right,return true.
-#-lt if the left num less than the right,return true.
-#-ge if the left num greater or equal the right,return true.
-#-le if the left num less or equal the right,return true.
+# -eq if the two number is equal,return true.
+# -ne if the two number is not equal, return true.
+# -gt if the left num greater than the right,return true.
+# -lt if the left num less than the right,return true.
+# -ge if the left num greater or equal the right,return true.
+# -le if the left num less or equal the right,return true.
 a=10
 b=20
 

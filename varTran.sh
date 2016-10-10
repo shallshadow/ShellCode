@@ -1,9 +1,9 @@
 #!/bin/bash
-#${var} The default var.
-#${var:-word} if var is null or is unset,return word,but not give it to var.
-#${var:=word} if var is null or is unset,return word and give it to var.
-#${var:?message} if var is null or is unset,put the message into stderr.we can use it to check var is normal or not.
-#${var:+word}if var is not define,do nothing but return word.
+# ${var} The default var.
+# ${var:-word} if var is null or is unset,return word,but not give it to var.
+# ${var:=word} if var is null or is unset,return word and give it to var.
+# ${var:?message} if var is null or is unset,put the message into stderr.we can use it to check var is normal or not.
+# ${var:+word}if var is not define,do nothing but return word.
 echo ${var:-"Variable is not set"}
 echo "1--Value of var is ${var}"
 

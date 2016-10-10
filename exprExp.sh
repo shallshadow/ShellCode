@@ -2,7 +2,7 @@
 
 #2016年 10月 01日 星期六 19:43:27 PDT
 
-#you can use `expr expression` to calculate the expression' result
+#you can use `expr expression` to calculate the expression's result
 
 var=`expr 2 + 2`
 echo "Total value : $var"
